@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdd3fb9-8dbe-40ea-bdd8-1868a6d90cd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/binary-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/binary-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bubble-sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +45,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585591274586</updated>
-      <workItem from="1585591276301" duration="619000" />
+      <workItem from="1585591276301" duration="1232000" />
+      <workItem from="1585625744831" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585624719240">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1585624719240" />
   </component>
 </project>
