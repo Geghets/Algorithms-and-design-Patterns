@@ -3,6 +3,7 @@
 
 # JetBrains IDEs (WebStorm, IntelliJ)
 .idea
+.idea/workspace.xml
 
 # Node.js
 node_modules/
